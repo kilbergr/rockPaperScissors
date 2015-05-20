@@ -1,0 +1,30 @@
+.choice {
+	height: 100px;
+	width:100px;
+	border: 20px solid lightblue;
+	float: left;
+	margin: 10px;
+}
+
+.scoreboard {
+	background-color: lightblue;
+	height: 100px;
+	width: 100px;
+	margin-left: 10px;
+	margin-top: 10px; 
+	padding: 20px;
+	float: left;
+	font-family: 'Comfortaa', cursive;
+}
+
+h2{
+	margin-top: -10px;
+}
+
+input {
+	margin-left: 20px;
+	background-color: blue;
+	color: white;
+	font-style: bold;
+	margin-top: 10px;
+}
